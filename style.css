@@ -22,13 +22,6 @@ main {
   margin: 30px auto;
   padding: 0 20px;
 }
-
-img {
-  display: block;
-  max-width: 100%;
-  margin: 20px 0;
-}
-
 nav {
   background-color: LightPink;
   padding: 10px 0;
